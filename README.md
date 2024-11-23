@@ -1,3 +1,10 @@
+---
+1. Add this bot to two accounts. One will be the main Coffee Shop owner, and the other will be the Finance Manager
+2. From Finance Manager, send `/registerManager`.
+3. From Coffee Shop Owner, send `Check Stock Levels`. You should see streaming.
+4. You can say any variation with "order coffee" and it should begin the coffee workflow
+5. You can check progress in the Dashboard tab.
+
 # Overview of the Basic AI Chatbot template
 
 This app template is built on top of [Teams AI library](https://aka.ms/teams-ai-library).
